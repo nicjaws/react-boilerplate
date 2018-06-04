@@ -5,5 +5,5 @@ import App from './components/App';
 import './styles/style.sass';
 
 ReactDOM.render(
-    <App/>, document.getElementByID('App')
+    <App/>, document.getElementByID('app')
 )
